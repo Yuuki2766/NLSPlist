@@ -13,6 +13,7 @@
     <button class="tab-button active" data-target="nolimit-group">NOLIMIT</button>
     <button class="tab-button" data-target="shankz-group">SHANKZ PROMOTION</button>
     <button class="tab-button" data-target="music-group">MUSIC</button>
+    <button class="tab-button" data-target="event-group">EVENT</button>
   </div>
 
   <!-- コンテンツ -->
@@ -21,10 +22,14 @@
   <div id="music-group" class="group-tab">
     <div id="music-videos" class="music-grid"></div>
   </div>
+  <div id="event-group" class="group-tab">
+    <div id="event-videos" class="event-grid"></div>
+  </div>
 
   <!-- スクリプト -->
   <script src="js/load_streamers.js"></script>
   <script src="js/load_music.js"></script>
+  <script src="js/load_event.js"></script>
 
   <script>
     const buttons = document.querySelectorAll(".tab-button");

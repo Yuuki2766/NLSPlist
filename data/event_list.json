@@ -1,0 +1,177 @@
+[
+  {
+    "id": "ej0WfU1Ys",
+    "title": "金令木雅之ライブ",
+    "group": "A"
+  },
+  {
+    "id": "1Z1xVWM88jg",
+    "title": "第1回サマーフェスティバル-前夜祭(シャンクズ視点)",
+    "group": "A"
+  },
+  {
+    "id": "R1vEHk3MB_8",
+    "title": "第1回サマーフェスティバル-本祭(シャンクズ視点)",
+    "group": "B"
+  },
+  {
+    "id": "oiFXMO3j-tc",
+    "title": "警察署・病院 慰問ライブツアー(シャンクズ視点)",
+    "group": "A"
+  },
+  {
+    "id": "thydqvshzFM",
+    "title": "警察署・病院 慰問ライブツアー(うさぎさん視点)",
+    "group": "A"
+  },
+  {
+    "id": "2JS2olvpjzc",
+    "title": "葵井　優所属記念「研修生ライブ」",
+    "group": "A"
+  },
+  {
+    "id": "zgzC5o_-W24",
+    "title": "GBC&シャンクズプロモーション共同主催「突発クリスマスライブ」",
+    "group": "A"
+  },
+  {
+    "id": "FHbGgSyDjMA",
+    "title": "うさぎさん 1stライブ「USAGI NORTH CRUISE LINER LIVE 2024」",
+    "group": "A"
+  },
+  {
+    "id": "xxZ6B4LwEgY",
+    "title": "うさぎさん 1stライブ(さとう視点)",
+    "group": "A"
+  },
+  {
+    "id": "4ieKAc1kAtc",
+    "title": "うさぎさん 1stライブ(シャンクズ視点)",
+    "group": "A"
+  },
+  {
+    "id": "qYkFxGQhe-M",
+    "title": "ストメンタル",
+    "group": "A"
+  },
+  {
+    "id": "YorBrFtedhs",
+    "title": "ProjectYラストナイト",
+    "group": "A"
+  },
+  {
+    "id": "Q20w3qfcwe8",
+    "title": "葵井　優 1stライブ「Aoi Yuu 1st solo Live」",
+    "group": "B"
+  },
+  {
+    "id": "33p4QYCSZIk",
+    "title": "葵井　優 1stライブ(シャンクズ視点)",
+    "group": "A"
+  },
+  {
+    "id": "2Oc6Ue_2f50",
+    "title": "「Violet Fizz 感謝ライブ」(うさぎさん視点)",
+    "group": "A"
+  },
+  {
+    "id": "OiyUIshA9Zs",
+    "title": "「Violet Fizz 感謝ライブ」(葵井優視点)",
+    "group": "A"
+  },
+  {
+    "id": "MXJUk4FsMvM",
+    "title": "さとう・ざ・ろっく 1stライブ「SATO THE ROCK！」",
+    "group": "B"
+  },
+  {
+    "id": "IyVPXUJyDAM",
+    "title": "さとう・ざ・ろっく 1stライブ(くまのふでこ視点)",
+    "group": "B"
+  },
+  {
+    "id": "SFwkg5WmY1o",
+    "title": "さとう・ざ・ろっく 1stライブ(シャンクズ視点)",
+    "group": "B"
+  },
+  {
+    "id": "Pfqw_yJ03wI",
+    "title": "うさぎさん新曲発表会USAGISAN Release Event「left under」",
+    "group": "A"
+  },
+  {
+    "id": "A93WntpKClg",
+    "title": "うさぎさん新曲発表会(シャンクズ視点)",
+    "group": "A"
+  },
+  {
+    "id": "h_4fNimI-hQ",
+    "title": "「Sunset肉フェス」",
+    "group": "B"
+  },
+  {
+    "id": "92Y54D9D3BI",
+    "title": "「Sunset肉フェス」(シャンクズ視点)",
+    "group": "B"
+  },
+  {
+    "id": "",
+    "title": "「激動 ～HOT LIMIT～ 」",
+    "group": "C",
+    "image": "images/HOTLIMIT.jpeg",
+    "link": "https://gekido2024.shankzpromotion.com/"
+  },
+  {
+    "id": "",
+    "title": "「3on3ヘリバトル」",
+    "group": "C",
+    "image": "images/3on3helibattle.jpeg"
+  },
+  {
+    "id": "lCMngiu2n8s",
+    "title": "「れお 1st Solo Live」",
+    "group": "A"
+  },
+  {
+    "id": "varV6KWpfK0",
+    "title": "「第1回シャンプロ紅白歌合戦」DAY1",
+    "group": "A"
+  },
+  {
+    "id": "nbJ4PxBM5B0",
+    "title": "「第1回シャンプロ紅白歌合戦」DAY2",
+    "group": "B"
+  },
+  {
+    "id": "",
+    "title": "「新春シャンプロビンゴ大会」",
+    "group": "C",
+    "image": "images/bingo.jpg"
+  },
+  {
+    "id": "",
+    "title": "アイドル大集合「マジカルドリームパーティー」",
+    "group": "C",
+    "image": "images/dream.png"
+  },
+  {
+    "id": "IQqB5cnMr5U",
+    "title": "FOWK OPEN SPECIAL STAGE",
+    "group": "A"
+  },
+  {
+    "id": "",
+    "title": "「超激動 -SUPER GEKIDO-」",
+    "group": "C",
+    "image": "images/supergekido.jpg",
+    "link": "https://gekido2025.shankzpromotion.com/"
+  },
+  {
+    "id": "Ia-NkEQEB2Y",
+    "title": "「超激動 -SUPER GEKIDO-」",
+    "group": "A"
+  }
+]
+
+
+
