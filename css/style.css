@@ -1,0 +1,128 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  background-color: black;
+  color: white; /* 文字は白に */
+}
+
+.group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background: #222;
+  padding: 8px;          /* 少しだけパディングを減らす */
+  border: 1px solid #555;
+  border-radius: 8px;
+  width: 150px;          /* 180px → 150px に縮小 */
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+  color: white;
+  font-size: 0.9rem;     /* 文字サイズを少し小さく */
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+
+.card h3 {
+  font-size: 1rem;       /* 見出しサイズを少し調整 */
+  margin: 8px 0 0 0;
+}
+
+/* リンク色も見やすく */
+a {
+  color: #66ccff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+
+.tabs {
+  margin-bottom: 20px;
+}
+
+.tab-button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.tab-button.active {
+  background-color: #66ccff;
+  color: black;
+}
+
+.group-tab {
+  display: none;
+}
+
+.group-tab.active {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.video-card {
+  background: #222;
+  padding: 8px;
+  border: 1px solid #555;
+  border-radius: 8px;
+  width: 300px;
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.7);
+  color: white;
+  font-size: 0.9rem;
+}
+
+.video-card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.video-card h3 {
+  margin: 8px 0;
+  font-size: 1rem;
+}
+
+.music-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.music-card {
+  background: #222;
+  padding: 8px;
+  border: 1px solid #555;
+  border-radius: 8px;
+  width: 200px;
+  text-align: center;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  color: white;
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.music-card img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.music-card p {
+  margin-top: 8px;
+  font-size: 0.9rem;
+  color: white;
+}

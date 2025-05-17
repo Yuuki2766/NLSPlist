@@ -1,0 +1,623 @@
+[
+
+    {
+    "id": "",
+    "name": "",
+    "image": "",
+    "description": "",
+    "links": {
+        "x_main": "",
+        "youtube": "",
+        "other": [
+        { "label": "公式サイト", "url": "https://fanta.jp" },
+        { "label": "グッズ販売", "url": "https://goods.fanta.jp" }
+        ]
+    }
+    },
+
+
+
+
+    {
+    "id": "fanta",
+    "name": "ファン太",
+    "group": ["N","S"],
+    "description": "",
+    "image": "images/JXJ1Slk0_400x400.jpg",
+    "links": {
+      "x_main": "https://x.com/fanta_jpn",
+      "x_sub": "https://x.com/fantajpn",
+      "youtube": "https://t.co/zqxHsc1lsW",
+      "twitch": "https://www.twitch.tv/fantasista_jp",
+      "other": [
+        { "label": "レーベル", "url": "https://t.co/WVCb36CrLY" },
+        { "label": "グッズ販売", "url": "https://store.shankzpromotion.com/?srsltid=AfmBOopiTx9j9VHlAT-tPoNRG7tj45VLmYL-G3mNdBlB7YVgMFKMgCQx" }
+        ]
+    }
+  },
+
+
+  {
+    "id": "kiramekieve",
+    "name": "煌イヴ",
+    "group": "S",
+    "description": "",
+    "image": "images/KnDqvdfF_400x400.jpg",
+    "links": {
+      "x_main": "https://x.com/evekiramekiii",
+      "x_sub": "https://x.com/submeki_eve",
+      "youtube": "https://www.youtube.com/@evekirameki",
+      "twitch": "https://t.co/94bKT3CJxC",
+      "other":  [
+        { "label": "instagram", "url": "https://www.instagram.com/evekirameki/?igsh=MWk3NmVjeDA0cGZrZw%3D%3D&utm_source=qr#" }
+        ]}
+  },
+
+
+
+
+
+  {
+    "id": "kettun",
+    "name": "けっつん",
+    "group": "N",
+    "description": "",
+    "image": "images/Ywba8wr1_400x400.png",
+    "links": {
+      "x_main": "https://twitter.com/KettunCyukyuhei?s=20",
+      "x_sub": "x x x ",
+      "youtube": "https://www.youtube.com/@ketsugeketsuge",
+      "twitch": "https://www.twitch.tv/kettuncyukyuhei",
+      "other": "x x x"
+    }
+  },
+
+    {
+    "id": "sorahosiparu",
+    "name": "宙星ぱる",
+    "group": ["N","S"],
+    "description": "",
+    "image": "images/lUCyuOi4_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/parrrrr_chan",
+      "x_sub": "https://x.com/pauchaaan",
+      "youtube": "https://youtube.com/@SoraphoshiCH",
+      "twitch": "https://www.twitch.tv/soraposhich",
+      "other": "xxx"
+    }
+  },
+
+
+
+  {
+    "id": "yuuku",
+    "name": "鴉紋ゆうく",
+    "group": "S",
+    "description": "",
+    "image": "images/Rf7BRgHp_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/Amon_Yuuku",
+      "x_sub": "https://x.com/AmoYuku_sub",
+      "youtube": "https://www.youtube.com/@AmonYuuku",
+      "twitch": "https://www.twitch.tv/amon_yuuku",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+  {
+    "id": "penkochanneru",
+    "name": "ぺんこちゃんねる",
+    "group": "S",
+    "description": "",
+    "image": "images/K6uvyjbC_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/pepepepepenko",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@PENKOCHANNEL",
+      "twitch": "https://www.twitch.tv/penko_channel",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": "sugarock",
+    "name": "SUGAROCK",
+    "group": "S",
+    "description": "",
+    "image": "images/lmF6zMmy_400x400.jpg",
+    "links": {
+      "x_main": "https://x.com/SUGAROCK_jp",
+      "x_sub" : "https://x.com/crazy69stars",
+      "youtube": "https://t.co/gQldAn8gG3",
+      "twitch": "https://www.twitch.tv/sugarock_jp",
+      "other": " "
+    }
+  },
+
+
+
+  {
+    "id": "sirry",
+    "name": "Sirry",
+    "group": "N",
+    "description": "",
+    "image": "images/wPTMe0Jy_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/Sirry_Twich",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@sirry_twich",
+      "twitch": "https://www.twitch.tv/sirry_twich",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "kashiwaneko",
+    "name": "かしわねこ",
+    "group": "N",
+    "description": "",
+    "image": "images/qXcGq-bg_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/kashi_neko",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@kashi_neko",
+      "twitch": "https://www.twitch.tv/kashi_neko",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "ottiki",
+    "name": "Ottiki",
+    "group": "N",
+    "description": "",
+    "image": "images/sNMQf9Ac_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/ottikicharlie?s=21&t=-8YIYpZ2PXN8UP4X9hk8Zw",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/channel/UC6wgFCg57R18r-Y8OEEBUug",
+      "twitch": "https://www.twitch.tv/ottiki",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "pira",
+    "name": "PIRA",
+    "group": "N",
+    "description": "",
+    "image": "images/Q9fuTKZt_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/pirania_kawaii",
+      "x_sub": "xxx",
+      "youtube": "xxx",
+      "twitch": "https://www.twitch.tv/pira_real",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "minamitette",
+    "name": "みなみてって",
+    "group": "N",
+    "description": "",
+    "image": "images/76M9o-mz_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/minami_tette",
+      "x_sub": "https://x.com/mtette_sub",
+      "youtube": "https://www.youtube.com/@minamitette/featured",
+      "twitch": "https://www.twitch.tv/minami_tette",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "ashisanri",
+    "name": "あしさんり",
+    "group": "N",
+    "description": "",
+    "image": "images/RqodPJET_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/ashi3re",
+      "x_sub": "https://x.com/ashi3resub",
+      "youtube": "https://www.youtube.com/@ashi3re",
+      "twitch": "https://www.twitch.tv/ashi3re",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "takera",
+    "name": "takera",
+    "group": "N",
+    "description": "",
+    "image": "images/Iky3HkAe_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/takeraketa",
+      "x_sub": "https://x.com/takera_sub",
+      "youtube": "https://www.youtube.com/@takerachannel5930/videos",
+      "twitch": "https://www.twitch.tv/takera0628",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "yufuna",
+    "name": "ゆふな",
+    "group": "N",
+    "description": "",
+    "image": "images/eKxXHP1g_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/_YFNA",
+      "x_sub": "https://x.com/YufuNapex",
+      "youtube": "https://www.youtube.com/@YufuNachannel",
+      "twitch": "https://www.twitch.tv/yufuna",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "nigingi",
+    "name": "にごんご",
+    "group": "N",
+    "description": "",
+    "image": "images/eKxXHP1g_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/nigongo25",
+      "x_sub": "https://x.com/nigogo_2",
+      "youtube": "https://www.youtube.com/@HappyNigongo",
+      "twitch": "https://www.twitch.tv/nigongo25?sr=a",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "miroku",
+    "name": "弥勒",
+    "group": "N",
+    "description": "",
+    "image": "images/25r7TjPA_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/miroku_voice",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@MirokuVTuber/",
+      "twitch": "https://www.twitch.tv/vtubermiroku",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "natsumesensei",
+    "name": "なつめ先生",
+    "group": "N",
+    "description": "",
+    "image": "images/_QFNoaqW_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/soncassooon",
+      "x_sub": "https://x.com/sub_natsume",
+      "youtube": "https://www.youtube.com/@natsumesensei_VT",
+      "twitch": "https://www.twitch.tv/natsume_sennsei",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "yumesakihipopo",
+    "name": "夢咲ひぽぽ",
+    "group": "N",
+    "description": "",
+    "image": "images/RCUZe1xM_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/warewa_kaba",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@Yumesaki_Hipopo",
+      "twitch": "https://www.twitch.tv/yumesaki_hipopo",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "rpr",
+    "name": "rpr",
+    "group": "N",
+    "description": "",
+    "image": "images/Xy0MYuO9_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/rpr",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@rprxx",
+      "twitch": "https://twitch.tv/rprx",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "kaikingu",
+    "name": "カイキング",
+    "group": "N",
+    "description": "",
+    "image": "images/4zLyG80Z_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/KaiExG",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@KAIKiNGch/featured",
+      "twitch": "https://www.twitch.tv/kaiking1101",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "tukuyomireo",
+    "name": "月夜見レオ",
+    "group": ["N","S"],
+    "description": "",
+    "image": "images/qNHg0M2I_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/Leo_tkym",
+      "x_sub": "https://x.com/Leo_Tukuyomi",
+      "youtube": "https://www.youtube.com/@Leo_Tukuyomi",
+      "twitch": "https://www.twitch.tv/leotukuyomi",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+  {
+    "id": "hiiragiturugi",
+    "name": "柊つるぎ",
+    "group": "S",
+    "description": "",
+    "image": "images/1g_2B3gT_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/HiiragiTsurugi",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/@HiiragiTsurugi",
+      "twitch": "https://www.twitch.tv/hiiragitsurugi",
+      "other": "xxx"
+    }
+  },
+
+
+  {
+    "id": "seotasahi",
+    "name": "瀬戸あさひ",
+    "group": "S",
+    "description": "",
+    "image": "images/uU85gn_o_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/asahi_ych",
+      "x_sub": "https://x.com/aki101098",
+      "youtube": "https://www.youtube.com/channel/UCuE6xoui7gZOTUiF0OtWWJw",
+      "twitch": "https://www.twitch.tv/setoasahi",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+  {
+    "id": "amagiten",
+    "name": "天城てん",
+    "group": "S",
+    "description": "",
+    "image": "images/_9TzLlfy_400x400.png",
+    "links": {
+      "x_main": "https://twitter.com/Ten_Amagi",
+      "x_sub": "https://x.com/amaginoumiso",
+      "youtube": "https://www.youtube.com/@AmagiTen",
+      "twitch": "https://www.twitch.tv/ten_amagi",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "kanseru",
+    "name": "かんせる",
+    "group": ["N","S"],
+    "description": "",
+    "image": "images/0Vy04GmE_400x400.jpg",
+    "links": {
+      "x_main": "https://x.com/kanzentaicell",
+      "x_sub": "https://x.com/kanseru_sub",
+      "youtube": "https://youtube.com/@-kanseru?si=xuhYXJGxewSZlOX5",
+      "twitch": "https://www.twitch.tv/kanseru_tyan",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "yoshipi",
+    "name": "よしぴ",
+    "group": ["N","S"],
+    "description": "",
+    "image": "images/xGq3ZV9B_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/Dark_yosip",
+      "x_sub": "https://x.com/Dark_yosip2",
+      "youtube": "https://www.youtube.com/@patepate0812",
+      "twitch": "https://www.twitch.tv/dark_yosip",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "chaa",
+    "name": "ちゃあ",
+    "group": "N",
+    "description": "",
+    "image": "images/zKuuOzfX_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/semiritaiya",
+      "x_sub": "",
+      "youtube": "https://www.youtube.com/channel/UCydrZalPUBm-6yjNyNtnkdw",
+      "twitch": "https://www.twitch.tv/chaasytb",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "kentsumeshi",
+    "name": "けんつめし",
+    "group": "N",
+    "description": "",
+    "image": "images/hfuKTtqq_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/Kent_Golemeshi",
+      "x_sub": "",
+      "youtube": "https://www.youtube.com/channel/UCBm-vsGV7nQv6hKS6Wj9x-A",
+      "twitch": "https://www.twitch.tv/kentsumeshi_heyoo",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+
+  {
+    "id": "raian",
+    "name": "ライアン",
+    "group": "S",
+    "description": "",
+    "image": "images/_FBReflG_400x400.jpg",
+    "links": {
+      "x_main": "https://x.com/Ryankey0221",
+      "x_sub": "xxx",
+      "youtube": "https://t.co/41r8RvLIgM",
+      "twitch": "https://www.twitch.tv/ryan3_ttv",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+
+  {
+    "id": "masyakarisan",
+    "name": "ましゃかりさん",
+    "group": "S",
+    "description": "",
+    "image": "images/QjJf4zmJ_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/masakari0601071?s=21&t=-8YIYpZ2PXN8UP4X9hk8Zw",
+      "x_sub": "xxx",
+      "youtube": "https://youtube.com/channel/UCEOWxJCx_wPq-LsJB_QXL9A",
+      "twitch": "https://www.twitch.tv/masakari913",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+  {
+    "id": "wakiwo",
+    "name": "わきを",
+    "group": "S",
+    "description": "",
+    "image": "images/QClggYB8_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/sg__soccer",
+      "x_sub": "xxx",
+      "youtube": "https://youtube.com/@wakiwo_",
+      "twitch": "https://www.twitch.tv/wakiwaki612",
+      "other": "xxx"
+    }
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": "shimagori",
+    "name": "島ゴリ",
+    "group": "S",
+    "description": "",
+    "image": "images/gbf011qR_400x400.jpg",
+    "links": {
+      "x_main": "https://twitter.com/gorirashima?s=21&t=SrzZy0i5MgPV9g1zOI53Yw",
+      "x_sub": "xxx",
+      "youtube": "https://www.youtube.com/channel/UC_-6l_excJybokZyAfCkpGg",
+      "twitch": "https://twitch.tv/gorirashima",
+      "other": "xxx"
+    }
+  }
+
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
