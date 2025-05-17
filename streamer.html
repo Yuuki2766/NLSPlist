@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
@@ -5,7 +6,15 @@
   <link rel="stylesheet" href="css/style.css" />
 </head>
 <body>
-  <a href="index.html">← 一覧に戻る</a>
+  <a href="#" id="back-link">← 一覧に戻る</a>
+
+  <script>
+    document.getElementById('back-link').addEventListener('click', (e) => {
+      e.preventDefault();
+      history.back();
+    });
+  </script>
+
   <div id="streamer-detail"></div>
 
   <script src="js/load_streamer_detail.js"></script>
