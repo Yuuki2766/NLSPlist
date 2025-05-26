@@ -232,3 +232,21 @@ nav a:hover {
   box-shadow: 0 6px 12px rgba(80, 80, 80, 0.9);
   transform: translateY(-3px);
 }
+
+
+
+footer {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #252525;
+  color: #fff;
+  text-align: center;
+  font-size: 12px;
+}
+footer a {
+  color: #66ccff;
+  text-decoration: none;
+}
+footer a:hover {
+  text-decoration: underline;
+}
